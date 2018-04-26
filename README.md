@@ -2,6 +2,12 @@
 
 Treat JSON as objects in PHP instead of strings.
 
+##### Install
+
+```
+composer require kapitanluffy/json-object
+```
+
 ##### Usage
 
 ```php
