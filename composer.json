@@ -1,0 +1,13 @@
+{
+    "name": "kapitanluffy/json-object",
+    "description": "Treat JSON as objects in PHP",
+    "type": "library",
+    "license": "mpl-2.0",
+    "authors": [
+        {
+            "name": "Kapitanluffy Pirata",
+            "email": "kapitanluffy@gmail.com"
+        }
+    ],
+    "require": {}
+}
