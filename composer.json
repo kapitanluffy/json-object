@@ -2,12 +2,19 @@
     "name": "kapitanluffy/json-object",
     "description": "Treat JSON as objects in PHP",
     "type": "library",
-    "license": "mpl-2.0",
+    "license": "MPL-2.0",
     "authors": [
         {
             "name": "Kapitanluffy Pirata",
             "email": "kapitanluffy@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kapitanluffy\\JsonObject\\": "src"
+        }
+    }
 }
